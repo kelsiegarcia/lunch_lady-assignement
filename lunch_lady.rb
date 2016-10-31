@@ -45,7 +45,7 @@
 	end
 
 
-	puts main_dish_key[first_answer]
+	# puts main_dish_key[first_answer]
 
 
 
@@ -67,4 +67,3 @@
 
 	welcome_menu
 	# puts 0
-
